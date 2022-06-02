@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hello. I'm Jami Gibbs.</title>
-    <description>I'm a software developer and designer from Chicago creating useful things for the web.</description>
+    <title>Hello. I'm Zhijie Dong.</title>
+    <description>I am a third-year Ph.D. Candidate in the department of Electrical and Computer Engineering (ECE) at the University of Illinois at Urbana-Champaign (UIUC). I obtained my B.E. degree in Information Engineering in 2017 from Southeast University and M.S. degree in Electrical and Computer Engineering from University of Michigan.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 02 Jun 2022 00:04:48 -0500</pubDate>
-    <lastBuildDate>Thu, 02 Jun 2022 00:04:48 -0500</lastBuildDate>
+    <pubDate>Thu, 02 Jun 2022 11:57:17 -0500</pubDate>
+    <lastBuildDate>Thu, 02 Jun 2022 11:57:17 -0500</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>

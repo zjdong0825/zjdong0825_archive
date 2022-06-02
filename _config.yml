@@ -14,8 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Hello. I'm Zhijie Dong."
-email: 'jami0821@gmail.com'
-description: "I'm a software developer and designer from Chicago creating useful things for the web."
+email: 'zjdong0812@gmail.com'
+description: "I am a third-year Ph.D. Candidate in the department of Electrical and Computer Engineering (ECE) at the University of Illinois at Urbana-Champaign (UIUC). 
+I obtained my B.E. degree in Information Engineering in 2017 from Southeast University and M.S. degree in Electrical and Computer Engineering from University of Michigan."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jamigibbs.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'jamigibbs'
@@ -89,8 +90,8 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: '© 2018 Jami Gibbs'
-admin_name: 'Jami Gibbs'
+footer_text: '© 2022 Zhijie Dong'
+admin_name: 'Zhijie Dong'
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
 enable_contact: false
 
