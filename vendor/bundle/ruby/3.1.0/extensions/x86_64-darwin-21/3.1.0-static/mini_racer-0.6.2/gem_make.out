@@ -1,0 +1,18 @@
+current directory: /Users/zhijiedong/Dropbox/Repo/zjdong0825.github.io/vendor/bundle/ruby/3.1.0/gems/mini_racer-0.6.2/ext/mini_racer_extension
+/Users/zhijiedong/.rubies/ruby-3.1.2/bin/ruby -I /Users/zhijiedong/.rubies/ruby-3.1.2/lib/ruby/3.1.0 -r ./siteconf20220603-22322-i46h93.rb extconf.rb
+checking for -lpthread... yes
+checking for -lobjc... yes
+creating Makefile
+
+current directory: /Users/zhijiedong/Dropbox/Repo/zjdong0825.github.io/vendor/bundle/ruby/3.1.0/gems/mini_racer-0.6.2/ext/mini_racer_extension
+make DESTDIR\= clean
+
+current directory: /Users/zhijiedong/Dropbox/Repo/zjdong0825.github.io/vendor/bundle/ruby/3.1.0/gems/mini_racer-0.6.2/ext/mini_racer_extension
+make DESTDIR\=
+compiling mini_racer_extension.cc
+clang: warning: argument unused during compilation: '-rdynamic' [-Wunused-command-line-argument]
+linking shared-object mini_racer_extension.bundle
+
+current directory: /Users/zhijiedong/Dropbox/Repo/zjdong0825.github.io/vendor/bundle/ruby/3.1.0/gems/mini_racer-0.6.2/ext/mini_racer_extension
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 mini_racer_extension.bundle ./.gem.20220603-22322-38mwvi
